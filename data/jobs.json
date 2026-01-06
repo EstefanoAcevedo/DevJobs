@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "title": "Ingeniero de software",
+        "description": "Buscamos un ingeniero de software con experiencia en desarrollo web y conocimientos en JavaScript, React y Node.js. El candidato ideal debe ser capaz de trabajar en equipo y tener buenas habilidades de comunicación.",
+        "company": "Tech Solutions Inc.",
+        "location": "Remoto",
+        "data": {
+            "tech": "JavaScript",
+            "location": "Remoto"
+        }
+    },
+    {
+        "id": 2,
+        "title": "Desarrollador Frontend",
+        "description": "Estamos buscando un desarrollador frontend con experiencia en HTML, CSS y frameworks como Vue.js o Angular. El candidato debe tener un buen ojo para el diseño y ser capaz de crear interfaces de usuario atractivas y funcionales.",
+        "company": "Innovatech",
+        "location": "España",
+        "data": {
+            "tech": "Angular",
+            "location": "España"
+        }
+    },
+    {
+        "id": 3,
+        "title": "Analista de Datos",
+        "description": "Estamos buscando un analista de datos con experiencia en el manejo de grandes conjuntos de datos y herramientas de visualización. Se requiere conocimiento en SQL, Python y R.",
+        "company": "Data Driven Co.",
+        "location": "México",
+        "data": {
+            "tech": "SQL",
+            "location": "México"
+        }
+    },
+    {
+        "id": 4,
+        "title": "Administrador de Sistemas",
+        "description": "Buscamos un administrador de sistemas con experiencia en la gestión de redes, servidores y seguridad informática. El candidato debe tener conocimientos en Linux, Windows Server y herramientas de monitoreo.",
+        "company": "NetSecure Ltd.",
+        "location": "España",
+        "data": {
+            "tech": "Linux",
+            "location": "España"
+        }
+    },
+    {
+        "id": 5,
+        "title": "Desarrollador de Aplicaciones Móviles",
+        "description": "Buscamos un desarrollador de aplicaciones móviles con experiencia en iOS y/o Android. El candidato debe tener conocimientos en Swift, Kotlin y el desarrollo de interfaces de usuario.",
+        "company": "Mobile Apps Lid.",
+        "location": "México",
+        "data": {
+            "tech": "Kotlin",
+            "location": "México"
+        }
+    },
+    {
+        "id": 6,
+        "title": "Ingeniero de DevOps",
+        "description": "Buscamos un ingeniero de DevOps con experiencia en la gestión de infraestructuras en la nube, automatización de procesos y herramientas de integración contínua. Se requiere conocimiento en AWS, Azure o Docker",
+        "company": "Cloud Services SA",
+        "location": "Remoto",
+        "data": {
+            "tech": "Docker",
+            "location": "Remoto"
+        }
+    }   
+]
