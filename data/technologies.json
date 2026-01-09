@@ -1,0 +1,21 @@
+[
+    { "name": "JavaScript", "value": "javascript" },
+    { "name": "React", "value": "react" },
+    { "name": "Node.js", "value": "nodejs" },
+    { "name": "HTML", "value": "html" },
+    { "name": "CSS", "value": "css" },
+    { "name": "Vue.js", "value": "vue" },
+    { "name": "Angular", "value": "angular" },
+    { "name": "SQL", "value": "sql" },
+    { "name": "Python", "value": "python" },
+    { "name": "R", "value": "r" },
+    { "name": "Linux", "value": "linux" },
+    { "name": "Windows Server", "value": "windows server" },
+    { "name": "iOS", "value": "ios" },
+    { "name": "Android", "value": "android" },
+    { "name": "Swift", "value": "swift" },
+    { "name": "Kotlin", "value": "kotlin" },
+    { "name": "AWS", "value": "aws" },
+    { "name": "Azure", "value": "azure" },
+    { "name": "Docker", "value": "docker" }
+]

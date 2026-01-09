@@ -60,7 +60,7 @@ body {
     border-bottom: 1px solid var(--border);
     div, nav {
         display: flex;
-        align-items: baseline;
+        align-items: center;
         gap: 1rem;
     }
     & > div:nth-child(1) {

@@ -60,7 +60,7 @@ body {
     border-bottom: 1px solid var(--border);
     div, nav {
         display: flex;
-        align-items: baseline;
+        align-items: center;
         gap: 1rem;
     }
     & > div:nth-child(1) {
@@ -169,7 +169,7 @@ body {
         }
     }
     & > div:nth-child(2) {
-        @media (width <= 707px) {
+        @media (width <= 822px) {
             display: flex;
             flex-direction: column;
     }
@@ -180,7 +180,7 @@ body {
     }
 }
 
-.job-input {
+#job-input {
     flex: 1;
     border: none;
     background-color: transparent;

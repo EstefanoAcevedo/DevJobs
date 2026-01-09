@@ -1,0 +1,1 @@
+import './components/devjobs-avatar-element.js';
